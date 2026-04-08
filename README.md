@@ -1,4 +1,4 @@
-![Publish Status](https://github.com/ether/ep_stable_authorid/workflows/Node.js%20Package/badge.svg) ![Backend Tests Status](https://github.com/ether/ep_stable_authorid/workflows/Backend%20tests/badge.svg)
+![Publish Status](https://github.com/ether/ep_stable_authorid/workflows/Node.js%20Package/badge.svg) [![Backend Tests Status](https://github.com/ether/ep_stable_authorid/actions/workflows/test-and-release.yml/badge.svg)](https://github.com/ether/ep_stable_authorid/actions/workflows/test-and-release.yml)
 
 # ep\_stable\_authorid
 
