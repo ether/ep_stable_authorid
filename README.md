@@ -1,6 +1,6 @@
 ![Publish Status](https://github.com/ether/ep_stable_authorid/workflows/Node.js%20Package/badge.svg) [![Backend Tests Status](https://github.com/ether/ep_stable_authorid/actions/workflows/test-and-release.yml/badge.svg)](https://github.com/ether/ep_stable_authorid/actions/workflows/test-and-release.yml)
 
-# ep\_stable\_authorid
+# Stable Author IDs for Etherpad
 
 Etherpad plugin to give authenticated users the same author ID every time they
 log in. Different authenticated users get different author IDs.
